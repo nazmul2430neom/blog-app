@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526016668848",
+    "project_id": "blog-app2-d7678",
+    "storage_bucket": "blog-app2-d7678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526016668848:android:7474f2ff5f701abe8fc775",
+        "android_client_info": {
+          "package_name": "com.mad.datapass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526016668848-9j2bhmq4duuhbnv3l19de1i4pa45c6ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY76_e2f1sP8gJiXEJ_WG9oDr-xHqe1rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526016668848-9j2bhmq4duuhbnv3l19de1i4pa45c6ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
